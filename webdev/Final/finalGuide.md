@@ -1,0 +1,46 @@
+# Webdev Final Guide
+
+- ==HTML & CSS==
+- ==JavaScript==
+  - ==Where does Javascript fit into the Web Development ecosystem (in this class it's a front-end language executed by the browser)==
+  - ==Basic usage of the language==
+  - ==DOM Queries==
+  - ==Event handling & using the 'event' argument==
+  - ==Creating new DOM elements==
+  - ==Processing form data with Javascript==
+  - ==The HTML5 'data-' attribute==
+  - ==The 'setTimeout' function==
+  - ==Minification & Obfuscation (know what they are)==
+  - ==Closures==
+  - ==The HTML5 'localStorage' interface==
+  - ==Cookies as a way to store data locally==
+  - Basic jQuery usage (`$(document).ready()`), selectors, simple event handlers, etc.)
+  - API's (know what they are and how to access a REST API via an AJAX call!)
+- Linux & Server-side concepts
+  - Basic commands (ssh, ls, cd, pwd, cp, mv, rm, nano, chmod)
+  - Navigating the file system from them command line
+  - How to read a file path
+  - Viewing and adjusting file permissions
+  - Understanding file permissions (rwx, user, group and world)
+  - The LAMP stack (know that it stands for)
+- PHP
+  - Where does PHP fit into the Web Development
+  - General usage of the PHP language
+  - The Common Gateway Interface
+  - Passing values to PHP via GET and POST (know the difference)
+  - Superglobals (`$_GET, $_POST, $_COOKIE`, etc)
+  - PHP file I/O (`file_exists, file_get_contents, file_put_contents`,etc)
+  - PHP string manipulation (`explode`)
+  - Including other PHP scripts (`include`)
+  - The `header()` function (redirects the browser to another location)
+  - Accessing cookies via PHP
+  - AJAX (know what it is, and know how to read/write an AJAX request using jQuery)
+- Database (SQLite)
+  - What is a database?
+  - Using the SQLite command line interface
+  - SQL queries
+    - creating tables
+    - inserting records
+    - deleting records
+    - updating records
+  - Using SQLite via PHP

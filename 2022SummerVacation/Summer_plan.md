@@ -1,0 +1,42 @@
+# 2022 Summer Plan
+
+- React
+  - [React documentation](https://reactjs.org/docs/getting-started.html)
+  - [crash course](https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLW8Hy_SEStP_3uNbO4OhuHFkSt1Voc-xL&index=1&t=1s)
+    - `12 hours`
+  - [code with mosh](https://codewithmosh.com/courses/enrolled/357788)
+    - `13 hours 30 min`
+  - redux
+    - [code with mosh](https://codewithmosh.com/courses/enrolled/783424)
+      - `6 hours`
+- Node.js
+  - [Node.js documentation](https://nodejs.dev/learn)
+  - [crash course](https://www.youtube.com/watch?v=f2EqECiTBL8&list=PLW8Hy_SEStP_3uNbO4OhuHFkSt1Voc-xL&index=2&t=1s)
+    - `7 hours`
+  - [code with mosh](https://codewithmosh.com/courses/enrolled/293204)
+    - `13 hours`
+- Typescript
+  - [Typescript documentation](https://www.typescriptlang.org/docs/)
+  - [crash course](https://www.youtube.com/watch?v=FJDVKeh7RJI&list=PLW8Hy_SEStP_3uNbO4OhuHFkSt1Voc-xL&index=4&t=17s)
+    - `1 hours 30 min`
+  - effective typescript
+- HTML & CSS Review
+  - code with mosh - [part one](https://codewithmosh.com/courses/enrolled/1260591); [part two](https://codewithmosh.com/courses/enrolled/1269823); [part three](https://codewithmosh.com/courses/enrolled/1269822)
+- Javascript
+  - [crash course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+  - [code with mosh](https://codewithmosh.com/courses/enrolled/324741)
+  - javascript the good part
+- git & Github
+  - [code with mosh](https://codewithmosh.com/courses/enrolled/1120640)
+    -`5h 20 min`
+  - [Github crash course](https://www.youtube.com/watch?v=3fUbBnN_H2c)
+- AWS
+  - [crash course](https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLW8Hy_SEStP_3uNbO4OhuHFkSt1Voc-xL&index=3&t=34637s)
+    - `12 hours 30 min`
+  - [official website](https://aws.amazon.com/?nc2=h_lg)
+- Design Pattern
+  - code with mosh - [Part One](https://codewithmosh.com/courses/enrolled/759570); [Part Two](https://codewithmosh.com/courses/enrolled/760032); [Part Three](https://codewithmosh.com/courses/enrolled/1467728)
+    - `6 hours 40 min`
+- SQL
+  - [code with mosh](https://codewithmosh.com/courses/enrolled/525068)
+- Clean code
