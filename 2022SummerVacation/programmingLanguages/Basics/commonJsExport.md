@@ -2,7 +2,7 @@
 
 [official documentation for commonJS export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
 
-**NOTICE**: different from node.js export [see node.js export](../Node.js/ZTM/moduleSystem.md)
+**NOTICE**: different from node.js export [see node.js export](../../toolsFrameworks/Node.js/ZTM/moduleSystem.md)
 
 ## Syntax
 

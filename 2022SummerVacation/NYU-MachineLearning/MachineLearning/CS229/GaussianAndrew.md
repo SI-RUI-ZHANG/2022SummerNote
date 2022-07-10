@@ -185,9 +185,9 @@ $$
 ## Compare Discriminative vs. Generative
 
 ==discriminative==
-![picture 13](../../../images/83df3d7425f423b7a44c0222a6003a85e2b02e343cb7fc92b6cd9f4017438a7f.png)  
+![picture 13](../../../../images/83df3d7425f423b7a44c0222a6003a85e2b02e343cb7fc92b6cd9f4017438a7f.png)  
 ==generative==
-![picture 14](../../../images/bdfefebd824cce964c15e2a2213e7ec1440c58f3f5ed50a077d299027eff12b9.png)  
+![picture 14](../../../../images/bdfefebd824cce964c15e2a2213e7ec1440c58f3f5ed50a077d299027eff12b9.png)  
 
 > Use a single $ \Sigma $ covariance matrix gives a linear decision boundary.
 > It is also reasonable to use different $ \Sigma _{0}, \Sigma _{1} $ though.

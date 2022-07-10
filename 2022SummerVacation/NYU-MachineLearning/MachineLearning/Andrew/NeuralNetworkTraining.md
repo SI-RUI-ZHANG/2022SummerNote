@@ -112,4 +112,4 @@ More numerically accurate implementation of logistic loss:
 
 ## Multi-label Classification
 
-![picture 7](../../../images/3484015f961fd7d26f069b184327f9c4e5b250c45d6ced4c666df1404e649332.png)  
+![picture 7](../../../../images/3484015f961fd7d26f069b184327f9c4e5b250c45d6ced4c666df1404e649332.png)  

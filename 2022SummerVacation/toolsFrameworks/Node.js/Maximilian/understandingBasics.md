@@ -190,4 +190,4 @@ server.listen(3000);
 
 `Client` $\Rightarrow$ `Request` $\Rightarrow$ `Server` $\Rightarrow$ `Response` $\Rightarrow$ `Client`
 
-![picture 1](../../../images/bff75e4f6ff01d6ba07b98f3a56badfb6400630f39810c2e1a5c9274e05a297e.png)  
+![picture 1](../../../../images/bff75e4f6ff01d6ba07b98f3a56badfb6400630f39810c2e1a5c9274e05a297e.png)  

@@ -35,7 +35,7 @@ map(function(element, index, array){}, thisArg)
 
 ## promise
 
-[Promise Examples](../../Basics/promise.md)
+[Promise Examples](../../../programmingLanguages/Basics/promise.md)
 
 A `Promise` is an object representing the eventual completion or failure of an asynchronous operation.
 

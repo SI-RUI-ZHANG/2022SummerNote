@@ -1,6 +1,6 @@
 # Step Machine Learning Framework
 
-![picture 1](../../../images/76b2d8309bb7235b47298183a9a7c3cd0335fd980ad5bf0692eb0e7411ecec6c.png)  
+![picture 1](../../../../images/76b2d8309bb7235b47298183a9a7c3cd0335fd980ad5bf0692eb0e7411ecec6c.png)  
 
 1. Problem definition
 2. Data

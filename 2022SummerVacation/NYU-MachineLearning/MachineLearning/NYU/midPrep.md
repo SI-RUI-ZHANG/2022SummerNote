@@ -360,7 +360,7 @@ MSE (x) &= \mathbb{E} _{D _{i}} \left\{ (t (x) - \mathbb{E} _{D _{i}} h _{\beta}
 $$
 
 <div style='text-align:center'>
-<img src='../../../images/d2e9ff9eb6acda47948976c5afbcdcdb108c0ba36f10e8bbe1d816f42071d520.png' width='500px'>
+<img src='../../../../images/d2e9ff9eb6acda47948976c5afbcdcdb108c0ba36f10e8bbe1d816f42071d520.png' width='500px'>
 </div>
 
 ## 6. Learn Binary Classifier form Residual Sum Squares
@@ -702,7 +702,7 @@ $ \rightarrow $ resulting perceptron algorithm applies the step iteratively on t
 
 You must be able to provide the general expression for a neural network and draw the corresponding diagram.
 
-![picture 2](../../../images/bc383e4bb3701926f651581246f30ffd0c33128c4329a1de75902ce505c4dfb6.jpeg)  
+![picture 2](../../../../images/bc383e4bb3701926f651581246f30ffd0c33128c4329a1de75902ce505c4dfb6.jpeg)  
 
 $ k ^{(th)} $ unit from layer $ l $ can be encoded by a combination of
 "linear combination + activation function" as

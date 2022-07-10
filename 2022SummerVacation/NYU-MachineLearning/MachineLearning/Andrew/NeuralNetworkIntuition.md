@@ -1,7 +1,7 @@
 # Neural Network Intuition
 
 <div style='padding-left: 9em; padding-right: 9em'>
-<img src='../../../images/39f7a788f3ab29b95d9ecb7bfb39c9e993952385be0ffbcca770ec3c70a732af.png'>
+<img src='../../../../images/39f7a788f3ab29b95d9ecb7bfb39c9e993952385be0ffbcca770ec3c70a732af.png'>
 </div>
 
 ## Layer

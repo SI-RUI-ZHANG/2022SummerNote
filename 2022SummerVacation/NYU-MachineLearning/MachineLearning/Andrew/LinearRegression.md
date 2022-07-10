@@ -40,7 +40,7 @@ $$
 \text{minimize} _{w,b} J (w, b)
 $$
 
-![picture 1](../../../images/3731b69644b38624e54a481e839cf53ec74e8e224145ad7a07ad1b689da2b346.png)  
+![picture 1](../../../../images/3731b69644b38624e54a481e839cf53ec74e8e224145ad7a07ad1b689da2b346.png)  
 
 ## Gradient Descent
 
@@ -128,7 +128,7 @@ f _{\vec{w}, b} (\vec{x }) &= \vec{w } \cdot \vec{x} + b
 \end{align*}
 $$
 
-![picture 2](../../../images/a3acbb1602b53ba92ea88514ee7bf409f9197b637b41aae53321ed52d5f8e0a0.png)  
+![picture 2](../../../../images/a3acbb1602b53ba92ea88514ee7bf409f9197b637b41aae53321ed52d5f8e0a0.png)  
 
 ### An alternative to gradient descent
 

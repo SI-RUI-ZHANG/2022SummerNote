@@ -33,7 +33,7 @@ $$
 $ \vec{x} $: input
 $ \vec{w}, b $: parameters
 
-![picture 3](../../../images/3061b3a6b9476406dd2c781a8a5b33e9bf88bddd46aeaa34c88baf8c086fc956.png)  
+![picture 3](../../../../images/3061b3a6b9476406dd2c781a8a5b33e9bf88bddd46aeaa34c88baf8c086fc956.png)  
 
 **when is $ f _{\vec{w}, b}(\vec{x}) \ge 0.5 $ (threshold)**?
 $$

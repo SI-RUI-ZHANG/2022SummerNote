@@ -38,7 +38,7 @@ the vector space containing the feature vector, like vector space.
 
 In black and white images, black and white pixels correspond to $ 0s $ and $ 1s $. Grayscale pixels are numbers between $ 0 $ and $ 255 $. Both assemble into a $ 1 $-dimensional array of numbers.
 
-![picture 2](../../../images/7ac32e91cb3de1eb8b33c29452b6eb79d608ad49a9919366577aedc88b5e9cc1.png)  
+![picture 2](../../../../images/7ac32e91cb3de1eb8b33c29452b6eb79d608ad49a9919366577aedc88b5e9cc1.png)  
 
 #### Words and Documents
 
@@ -114,25 +114,25 @@ It represents a particular process of turning one vector into another: stretchin
 
 A **matrix** represents a transformation of an entire vector space to another
 
-![picture 3](../../../images/fc511a22fe188c111b9d46a1cc1731f68b4a585e6b11b1f3e637130de303a756.png)  
+![picture 3](../../../../images/fc511a22fe188c111b9d46a1cc1731f68b4a585e6b11b1f3e637130de303a756.png)  
 
 #### what is a "matrix factorization"
 
 We can multiply **matrices** and get a **matrix**
 
-![picture 4](../../../images/b0ae8452de732cb06690749074ae1be1e1aa66c97a39494a0be2d05ead7a9ba9.png)  
+![picture 4](../../../../images/b0ae8452de732cb06690749074ae1be1e1aa66c97a39494a0be2d05ead7a9ba9.png)  
 
 ##### factorization
 
-![picture 5](../../../images/1836b138af868e2b05d194fea204b33ca851f33bfcb2501a7e0e2a4dae815d8b.png)  
-![picture 7](../../../images/ab85e1045e1187f58809fe92ea96a6b4dc2534cbcc1fbb71f9e8b2645ba83734.png)  
+![picture 5](../../../../images/1836b138af868e2b05d194fea204b33ca851f33bfcb2501a7e0e2a4dae815d8b.png)  
+![picture 7](../../../../images/ab85e1045e1187f58809fe92ea96a6b4dc2534cbcc1fbb71f9e8b2645ba83734.png)  
 
 ==Every matrix can be factored!==
 
 A fundamental theorem in linear algebra
 **Singular Value Decomposition**
 
-![picture 8](../../../images/79cf181e27cff9fe3a49812d8a47a1f1caa93498adaf37f024e3fd379b1f80f2.png)  
+![picture 8](../../../../images/79cf181e27cff9fe3a49812d8a47a1f1caa93498adaf37f024e3fd379b1f80f2.png)  
 
 ## Dimensionality Reduction
 
