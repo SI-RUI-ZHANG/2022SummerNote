@@ -31,13 +31,13 @@ const promise = new Promise(function(resolve, reject){
 
 ```javascript
 const promise = new Promise(function(resolve, reject) {
-const x = "geeksforgeeks";
-const y = "geeksforgeeks";
-if(x === y) {
-    resolve();
-} else {
-    reject();
-}
+  const x = "geeksforgeeks";
+  const y = "geeksforgeeks";
+  if(x === y) {
+      resolve();
+  } else {
+      reject();
+  }
 });
 
 promise.

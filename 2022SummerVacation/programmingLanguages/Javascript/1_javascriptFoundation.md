@@ -1,0 +1,4 @@
+# Javascript Foundation
+
+> Brendan Eich
+

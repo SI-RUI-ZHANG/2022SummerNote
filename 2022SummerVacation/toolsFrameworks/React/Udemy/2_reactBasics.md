@@ -56,7 +56,9 @@ That is because `setState()` is asynchronous call, by the time we log state the 
 To avoid such problem, we can pass `setState()` a function and a call back.
 `setState(()=>{}, ()=>{})`
 
-The ==first== function return the object used to shaw merge with `this.state`.
+Notic that the function we passed to `setState((state, props)=>{}, ()=>{})`, have access to `state` and `props`
+
+The ==first== function return the object used to shallow merge with `this.state`.
 In this way, we can also pass `state` and `props` to the function and based on that to update our `state`.
 
 (optional) The ==second== function we pass to `setState()` is a call back function, which will run after the first function is finished.
@@ -213,7 +215,7 @@ This is where you run statements that requires that the component is already pla
 
 The `componentDidMount()` method allows us to execute the React code when the component is already placed in the DOM. This method is called during the Mounting phase of the React Life-cycle i.e after the component is rendered.
 
-All the AJAX requests and the DOM or state updation should be coded in the componentDidMount()
+All the AJAX requests and the DOM or state updation should be coded in the `componentDidMount()`
 
 In practice, `componentDidMount` is the best place to put calls to fetch data, for two reasons:
 

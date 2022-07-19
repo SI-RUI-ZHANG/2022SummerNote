@@ -2,26 +2,24 @@
 
 ## Linked List, Stack, Queue
 
-- [ ] Linked List
-- [ ] Stack
-- [ ] Queue
-- [ ] 206
-- [ ] 160
-- [ ] 21
-- [ ] 86
-- [ ] 142
-- [ ] 92
-- [ ] 138
-- [ ] 20
-- [ ] 224
-- [ ] 155
-- [ ] 946
-- [ ] 739
-- [ ] 42
-- [ ] 232
-- [ ] 328
-- [ ] offer 06
-- [ ] offer 22
+- [x] Linked List
+- [x] Stack
+- [x] Queue
+- [x] 206
+- [x] 160
+- [x] 21
+- [x] 86
+- [x] 142
+- [x] 92
+- [x] 138
+- [x] 20
+- [x] 224
+- [x] 155
+- [x] 946
+- [x] 739
+- [x] 42
+- [x] 232
+- [x] 328
 
 ## Recursion, Sorting, Greedy Algorithm
 

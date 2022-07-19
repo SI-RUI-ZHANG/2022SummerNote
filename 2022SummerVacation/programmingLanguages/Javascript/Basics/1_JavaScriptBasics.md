@@ -162,7 +162,7 @@ const [hobby1, hobby2] = hobbies;
 
 ## Async Code & Promises
 
-[Promise](promise.md)
+[Promise](3_promise.md)
 
 ## Template Literals
 
